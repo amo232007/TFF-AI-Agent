@@ -1,0 +1,13 @@
+{
+    "approved_departments": [
+        "engineering",
+        "HR",
+        "marketing",
+        "sales",
+        "QA",
+        "accounting",
+        "business Development",
+        "production",
+        "warehousing"
+    ]
+}
