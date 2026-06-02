@@ -1,0 +1,15 @@
+
+{
+    "__INSTRUCTIONS__": "To add a department, type it in lowercase inside quotes followed by a comma. Do not delete the brackets [ ] or curly braces { }.",
+    "approved_departments": [
+        "engineering",
+        "HR",
+        "marketing",
+        "sales",
+        "QA",
+        "accounting",
+        "business Development",
+        "production",
+        "warehousing"
+    ]
+}
