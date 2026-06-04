@@ -120,7 +120,7 @@ if prompt := st.chat_input("Ask a question based on your documents..."):
             # Prepend system instruction to the active ongoing chat conversation
             full_messages = [SystemMessage(content=system_instruction)] + st.session_state.messages
             
-        with st.spinner("Generating answer..."):
+        with st.spinner("Generating answer. This may take some time..."):
             # --- THE ASYNC UPGRADE IS HERE ---
             # Create an asynchronous function to fetch the response
             async def get_ai_response():
